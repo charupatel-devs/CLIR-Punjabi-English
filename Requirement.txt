@@ -3,3 +3,13 @@ https://github.com/VarunGumma/IndicTransToolkit.git
 
 Clone this too - IndicTrans2
 https://github.com/AI4Bharat/IndicTrans2.git
+
+nltk==3.9.1
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.2
+spacy==3.7.6
+scispacy==0.5.5
+sentence-transformers==3.4.1
+torch==2.6.0
+transformers==4.49.0
