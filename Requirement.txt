@@ -1,0 +1,5 @@
+Clone this - IndicTransToolkit
+https://github.com/VarunGumma/IndicTransToolkit.git
+
+Clone this too - IndicTrans2
+https://github.com/AI4Bharat/IndicTrans2.git
